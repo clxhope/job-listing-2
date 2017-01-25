@@ -23,26 +23,22 @@
   background-image:url('http://agencepenrose.com/wp-content/uploads/2016/09/fb-at-work-une-agencepenrose.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 110px;
+  color: #fff;
+  padding-bottom: 200px;
 }
 
 .title {
-  font-family: "Helvetica Neue", "Microsoft Yahei", 微软雅黑;
+  transform: rotateX(0deg) translate(0px, 0px);
+  opacity: 1;
+  letter-spacing: 10px;
   text-align: center;
-  margin-top: 200px;
-  margin-bottom: 80px;
-}
-
-.slogan {
-  margin-top: 10px;
+  margin-top: 150px;
   margin-bottom: 50px;
-  text-align: center;
-  color: white;
-  top: 12px;
+  font-weight: 700;
 }
 
 .lead {
-  margin-bottom: 60px;
+  margin-bottom: 200px;
   text-align: center;
   color: white;
 }
